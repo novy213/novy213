@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @novy213
-- 👀 I’m interested in programming games in unity 
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate in unity 
-- 📫 How to reach me DC: NoVy#2914
+- 👋 Hi, I’m @novy213 (10yrs old)
+- 👀 I’m interested in blowjob
+- 🌱 I’m currently learning blowjob
+- 💞️ I’m looking to blowjob
+- 📫 How to reach u cant
 
 
