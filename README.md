@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @novy213 (10yrs old)
-- 👀 I’m interested in blowjob
-- 🌱 I’m currently learning blowjob
-- 💞️ I’m looking to blowjob
-- 📫 How to reach u cant
+- 👋 Hi, I’m @novy213
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to b
+-// 📫 How to reach u cant
 
 
