@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **WPF**
 
-- 💬 Ask me about **docker**
+- 💬 Ask me about **docker, WPF, c#**
 
 - 📫 How to reach me **j.solarek@wp.pl**
 
