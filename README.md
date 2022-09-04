@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm novy213</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from Poland</h3>
 
 - 🔭 I’m currently working on **nothing**
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **docker, WPF, c#**
 
 - 📫 How to reach me **j.solarek@wp.pl**
-
-- ⚡ Fun fact **india**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
