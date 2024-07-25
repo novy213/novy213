@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/novy213/novy213/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/novy213/novy213/output/snake.svg)
 
 ###
 
