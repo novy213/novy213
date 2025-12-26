@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jakub Solarek
 ## Full Stack Developer from Poland 🇵🇱
 
-Welcome to my GitHub profile! I'm a passionate programmer with over 2 years of professional experience, coding since I was 13. I love turning ideas into reality through code and constantly expanding my technical horizons.
+Welcome to my GitHub profile! I'm a passionate programmer with over 3 years of professional experience, coding since I was 13. I love turning ideas into reality through code and constantly expanding my technical horizons.
 
 ### 💼 Professional Experience
 
